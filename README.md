@@ -1,4 +1,5 @@
-# CureX Smart Healthcare Diagnostic System
+#  CUREX: Revolutionizing Prenatal Care with YOLOv8 Fetal Brain Imaging, AI
+ Symptom Chatbot, and Smart Health Monitoring
 
 This Flask-based web application provides AI-powered health diagnostics and recommendations using symptom input, real-time IoT data, and medical image analysis. The system integrates multiple machine learning models, Google Gemini AI, and datasets to offer predictive analytics, health insights, and treatment suggestions.
 
